@@ -274,6 +274,7 @@
             background-color: #E1306C; /* Instagram Pink */
         }
 
+
         .social-icons a.email {
             background-color: #D44638; /* Email Red */
         }
@@ -312,17 +313,17 @@
     <section id="about">
         <h2>About Me</h2>
         <img src="https://i.pinimg.com/736x/50/87/e7/5087e7cc2cb8b58a3c316074afcd4d39.jpg" alt="profile image" class="profile-image">
-        <p>Hi! I'm Aayush Paswan, a Class 11 student with a deep passion for ethical hacking, web development, and software development. I am dedicated to learning new skills and building innovative projects.</p>
+        <p>Hi! I'm Aayush Paswan, a Class 11 student with a deep passion for ethical hacking, web development, and software development. I am dedicated to learning new skills and building innovative projects.From a young age, I’ve been fascinated by technology and how it shapes our world, and I’ve dedicated myself to mastering the art of programming.</p>
     </section>
 
     <!-- Interests Section -->
     <section id="interests">
         <h2>My Interests</h2>
-        <p>In my free time, I enjoy watching anime, playing games, and learning programming languages. I love exploring the intersection of creativity and technology.</p>
+        <p>In my free time, I enjoy watching anime, playing games, and learning programming languages.<br> I enjoy the storytelling Anime series like [Onepiece and Naruto] and immerse <br>myself in games like [Free Fire].<br>I have a deep love for coding, which allows me to turn my creative ideas into reality.</p>
         <div class="gallery">
-            <img src="https://preview.redd.it/5n8hs34ztzk61.png?width=1080&crop=smart&auto=webp&s=7c2760d11d87d21107ba5acea68fd1461183b3a3" alt="Photography"> 
-            <img src="https://wallpapercave.com/wp/wp11550270.jpg" alt="Gaming">
-            <img src="https://backiee.com/static/wallpapers/1920x1080/386745.jpg" alt="Tech Exploration">
+            <img src="https://preview.redd.it/5n8hs34ztzk61.png?width=1080&crop=smart&auto=webp&s=7c2760d11d87d21107ba5acea68fd1461183b3a3" alt="Photography"> <p>Anime</p> 
+            <img src="https://wallpapercave.com/wp/wp11550270.jpg" alt="Gaming"> <p>Gaming</p>
+            <img src="https://backiee.com/static/wallpapers/1920x1080/386745.jpg" alt="Coding"><p>Coding</p>
         </div>
     </section>
 
